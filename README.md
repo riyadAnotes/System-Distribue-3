@@ -6,7 +6,7 @@ Serialisation et Deserialisation ?  --> Les classes  : OutputStream et InputStre
 :: de objet a octects :: de octets a objet ;
 
 
-Thread ?
+Thread vs Processus ?
 
 
 
